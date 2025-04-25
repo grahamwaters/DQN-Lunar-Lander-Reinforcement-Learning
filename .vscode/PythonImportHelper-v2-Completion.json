@@ -1,0 +1,1401 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "EnhancedStockTradingEnv",
+        "importPath": "stock_env",
+        "description": "stock_env",
+        "isExtraImport": true,
+        "detail": "stock_env",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "gymnasium",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gymnasium",
+        "description": "gymnasium",
+        "detail": "gymnasium",
+        "documentation": {}
+    },
+    {
+        "label": "spaces",
+        "importPath": "gymnasium",
+        "description": "gymnasium",
+        "isExtraImport": true,
+        "detail": "gymnasium",
+        "documentation": {}
+    },
+    {
+        "label": "yfinance",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yfinance",
+        "description": "yfinance",
+        "detail": "yfinance",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "ta",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ta",
+        "description": "ta",
+        "detail": "ta",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "cv2,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2.",
+        "description": "cv2.",
+        "detail": "cv2.",
+        "documentation": {}
+    },
+    {
+        "label": "torch,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.",
+        "description": "torch.",
+        "detail": "torch.",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryWriter",
+        "importPath": "torch.utils.tensorboard",
+        "description": "torch.utils.tensorboard",
+        "isExtraImport": true,
+        "detail": "torch.utils.tensorboard",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryWriter",
+        "importPath": "torch.utils.tensorboard",
+        "description": "torch.utils.tensorboard",
+        "isExtraImport": true,
+        "detail": "torch.utils.tensorboard",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryWriter",
+        "importPath": "torch.utils.tensorboard",
+        "description": "torch.utils.tensorboard",
+        "isExtraImport": true,
+        "detail": "torch.utils.tensorboard",
+        "documentation": {}
+    },
+    {
+        "label": "SummaryWriter",
+        "importPath": "torch.utils.tensorboard",
+        "description": "torch.utils.tensorboard",
+        "isExtraImport": true,
+        "detail": "torch.utils.tensorboard",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.optim",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "imageio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "imageio",
+        "description": "imageio",
+        "detail": "imageio",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "dates",
+        "kind": 5,
+        "importPath": "stock_env.stock",
+        "description": "stock_env.stock",
+        "peekOfCode": "dates = pd.date_range('2023-01-01', periods=100)\nprices = np.linspace(100, 150, 100) + np.random.normal(0, 2, 100)\ndata = pd.DataFrame({'Date': dates, 'Close': prices})\nenv = EnhancedStockTradingEnv(data)\nobservation, _ = env.reset()\ndone = False\ntotal_reward = 0\nwhile not done:\n    action = env.action_space.sample()  # random actions\n    observation, reward, done, _, _ = env.step(action)",
+        "detail": "stock_env.stock",
+        "documentation": {}
+    },
+    {
+        "label": "prices",
+        "kind": 5,
+        "importPath": "stock_env.stock",
+        "description": "stock_env.stock",
+        "peekOfCode": "prices = np.linspace(100, 150, 100) + np.random.normal(0, 2, 100)\ndata = pd.DataFrame({'Date': dates, 'Close': prices})\nenv = EnhancedStockTradingEnv(data)\nobservation, _ = env.reset()\ndone = False\ntotal_reward = 0\nwhile not done:\n    action = env.action_space.sample()  # random actions\n    observation, reward, done, _, _ = env.step(action)\n    total_reward += reward",
+        "detail": "stock_env.stock",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "stock_env.stock",
+        "description": "stock_env.stock",
+        "peekOfCode": "data = pd.DataFrame({'Date': dates, 'Close': prices})\nenv = EnhancedStockTradingEnv(data)\nobservation, _ = env.reset()\ndone = False\ntotal_reward = 0\nwhile not done:\n    action = env.action_space.sample()  # random actions\n    observation, reward, done, _, _ = env.step(action)\n    total_reward += reward\n    env.render()",
+        "detail": "stock_env.stock",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "stock_env.stock",
+        "description": "stock_env.stock",
+        "peekOfCode": "env = EnhancedStockTradingEnv(data)\nobservation, _ = env.reset()\ndone = False\ntotal_reward = 0\nwhile not done:\n    action = env.action_space.sample()  # random actions\n    observation, reward, done, _, _ = env.step(action)\n    total_reward += reward\n    env.render()\nprint(f\"Total reward: {total_reward:.2f}\")",
+        "detail": "stock_env.stock",
+        "documentation": {}
+    },
+    {
+        "label": "done",
+        "kind": 5,
+        "importPath": "stock_env.stock",
+        "description": "stock_env.stock",
+        "peekOfCode": "done = False\ntotal_reward = 0\nwhile not done:\n    action = env.action_space.sample()  # random actions\n    observation, reward, done, _, _ = env.step(action)\n    total_reward += reward\n    env.render()\nprint(f\"Total reward: {total_reward:.2f}\")",
+        "detail": "stock_env.stock",
+        "documentation": {}
+    },
+    {
+        "label": "total_reward",
+        "kind": 5,
+        "importPath": "stock_env.stock",
+        "description": "stock_env.stock",
+        "peekOfCode": "total_reward = 0\nwhile not done:\n    action = env.action_space.sample()  # random actions\n    observation, reward, done, _, _ = env.step(action)\n    total_reward += reward\n    env.render()\nprint(f\"Total reward: {total_reward:.2f}\")",
+        "detail": "stock_env.stock",
+        "documentation": {}
+    },
+    {
+        "label": "EnhancedStockTradingEnv",
+        "kind": 6,
+        "importPath": "stock_env.stock_env",
+        "description": "stock_env.stock_env",
+        "peekOfCode": "class EnhancedStockTradingEnv(gym.Env):\n    def __init__(self, ticker='AAPL', start='2023-01-01', end='2024-01-01', initial_balance=10000):\n        super().__init__()\n        self.ticker = ticker\n        self.start = start\n        self.end = end\n        self.initial_balance = initial_balance\n        self.df = yf.download(ticker, start=start, end=end)\n        self.df['RSI'] = ta.momentum.rsi(self.df['Close'])\n        self.df['MACD'] = ta.momentum.macd(self.df['Close'])",
+        "detail": "stock_env.stock_env",
+        "documentation": {}
+    },
+    {
+        "label": "DQN",
+        "kind": 6,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "class DQN(nn.Module):\n    def __init__(self, inp, out):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(inp,128), nn.ReLU(),\n            nn.Linear(128,128), nn.ReLU(),\n            nn.Linear(128,out))\n    def forward(self,x): return self.net(x)\npolicy_net, target_net = DQN(OBS_DIM,ACT_DIM).to(DEVICE), DQN(OBS_DIM,ACT_DIM).to(DEVICE)\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "save_gif",
+        "kind": 2,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "def save_gif(fr,ep,rdir,tag):\n    gid=uuid.uuid4().hex[:6]; p=os.path.join(rdir,f\"{tag}_ep{ep:04d}_{gid}.gif\"); imageio.mimsave(p,fr,fps=30); return p\ndef gifs2mp4(gifs, out_path):\n    \"\"\"\n    Convert a list of GIFs -> single MP4 via ffmpeg concat.\n    Prints detailed logs if anything goes wrong.\n    \"\"\"\n    if not gifs:\n        print(f\"[i] gifs2mp4 skipped – no GIFs given for {out_path}\")\n        return",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "gifs2mp4",
+        "kind": 2,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "def gifs2mp4(gifs, out_path):\n    \"\"\"\n    Convert a list of GIFs -> single MP4 via ffmpeg concat.\n    Prints detailed logs if anything goes wrong.\n    \"\"\"\n    if not gifs:\n        print(f\"[i] gifs2mp4 skipped – no GIFs given for {out_path}\")\n        return\n    # 1) Convert each GIF → MP4\n    mp4_files = []",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_UPDATE_FREQ",
+        "kind": 5,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "TARGET_UPDATE_FREQ = 1_000\nEPSILON_START, EPSILON_END, EPSILON_DECAY = 1.0, 0.01, 0.9995\nEPISODES_PER_RUN   = 300\nRENDER_EVERY       = 25\nVIDEO_DIR          = \"videos\"\nMODEL_PATH         = \"dqn_model.pkl\"\n# -------------- HOUSEKEEP ---------------\nos.makedirs(VIDEO_DIR, exist_ok=True)\nwriter = SummaryWriter(f\"runs/DQN_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\nDEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "writer = SummaryWriter(f\"runs/DQN_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\nDEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n# -------------- ENV ----------------------\nmake_env = lambda rec=False: gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if rec else None)\nenv = make_env()\nOBS_DIM, ACT_DIM = env.observation_space.shape[0], env.action_space.n\n# -------------- MODEL --------------------\nclass DQN(nn.Module):\n    def __init__(self, inp, out):\n        super().__init__()",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "DEVICE",
+        "kind": 5,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "DEVICE = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n# -------------- ENV ----------------------\nmake_env = lambda rec=False: gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if rec else None)\nenv = make_env()\nOBS_DIM, ACT_DIM = env.observation_space.shape[0], env.action_space.n\n# -------------- MODEL --------------------\nclass DQN(nn.Module):\n    def __init__(self, inp, out):\n        super().__init__()\n        self.net = nn.Sequential(",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "make_env",
+        "kind": 5,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "make_env = lambda rec=False: gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if rec else None)\nenv = make_env()\nOBS_DIM, ACT_DIM = env.observation_space.shape[0], env.action_space.n\n# -------------- MODEL --------------------\nclass DQN(nn.Module):\n    def __init__(self, inp, out):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(inp,128), nn.ReLU(),\n            nn.Linear(128,128), nn.ReLU(),",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "env = make_env()\nOBS_DIM, ACT_DIM = env.observation_space.shape[0], env.action_space.n\n# -------------- MODEL --------------------\nclass DQN(nn.Module):\n    def __init__(self, inp, out):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(inp,128), nn.ReLU(),\n            nn.Linear(128,128), nn.ReLU(),\n            nn.Linear(128,out))",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "dqn_best",
+        "description": "dqn_best",
+        "peekOfCode": "optimizer = optim.Adam(policy_net.parameters(), lr=LR)\nepsilon, step_cnt, start_ep, total_ep = EPSILON_START, 0, 1, 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH,'rb') as f:\n        ck=pickle.load(f)\n    policy_net.load_state_dict(ck['policy_state']); target_net.load_state_dict(ck['target_state'])\n    optimizer.load_state_dict(ck['optimizer_state'])\n    epsilon, step_cnt, start_ep, total_ep = ck['epsilon'], ck['step'], ck['episode']+1, ck.get('total_episode',0)\n    print(f\"[resume] from ep {start_ep}\")\nelse:",
+        "detail": "dqn_best",
+        "documentation": {}
+    },
+    {
+        "label": "DQN",
+        "kind": 6,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "class DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128),\n            nn.ReLU(),\n            nn.Linear(128, 128),\n            nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "render_env",
+        "kind": 2,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "def render_env(ep):\n    return gym.make(\"LunarLander-v3\", render_mode=\"human\") if ep % RENDER_EVERY == 0 or ep == NUM_EPISODES else gym.make(\"LunarLander-v3\", render_mode=None)\nenv = render_env(0)\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# =========================== DQN Model ==========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "GAMMA",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "GAMMA = 0.99\nLR = 1e-3\nBATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "LR",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "LR = 1e-3\nBATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "BATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "BUFFER_SIZE",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "BUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_REPLAY_SIZE",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "MIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_UPDATE_FREQ",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "TARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_START",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "EPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_END",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "EPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)\n# Gym env creation helper",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_DECAY",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "EPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)\n# Gym env creation helper\ndef render_env(ep):",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_EPISODES",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "NUM_EPISODES = 1000\nRENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)\n# Gym env creation helper\ndef render_env(ep):\n    return gym.make(\"LunarLander-v3\", render_mode=\"human\") if ep % RENDER_EVERY == 0 or ep == NUM_EPISODES else gym.make(\"LunarLander-v3\", render_mode=None)",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "RENDER_EVERY",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "RENDER_EVERY = 50\n# ================================================================\n# =========================== SETUP ==============================\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)\n# Gym env creation helper\ndef render_env(ep):\n    return gym.make(\"LunarLander-v3\", render_mode=\"human\") if ep % RENDER_EVERY == 0 or ep == NUM_EPISODES else gym.make(\"LunarLander-v3\", render_mode=None)\nenv = render_env(0)",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nlogdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)\n# Gym env creation helper\ndef render_env(ep):\n    return gym.make(\"LunarLander-v3\", render_mode=\"human\") if ep % RENDER_EVERY == 0 or ep == NUM_EPISODES else gym.make(\"LunarLander-v3\", render_mode=None)\nenv = render_env(0)\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# =========================== DQN Model ==========================",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "logdir",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "logdir = f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\"\nwriter = SummaryWriter(logdir)\n# Gym env creation helper\ndef render_env(ep):\n    return gym.make(\"LunarLander-v3\", render_mode=\"human\") if ep % RENDER_EVERY == 0 or ep == NUM_EPISODES else gym.make(\"LunarLander-v3\", render_mode=None)\nenv = render_env(0)\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# =========================== DQN Model ==========================\nclass DQN(nn.Module):",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "writer = SummaryWriter(logdir)\n# Gym env creation helper\ndef render_env(ep):\n    return gym.make(\"LunarLander-v3\", render_mode=\"human\") if ep % RENDER_EVERY == 0 or ep == NUM_EPISODES else gym.make(\"LunarLander-v3\", render_mode=None)\nenv = render_env(0)\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# =========================== DQN Model ==========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "env = render_env(0)\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# =========================== DQN Model ==========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128),\n            nn.ReLU(),",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "obs_dim",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "obs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# =========================== DQN Model ==========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128),\n            nn.ReLU(),\n            nn.Linear(128, 128),",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "n_actions",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "n_actions = env.action_space.n\n# =========================== DQN Model ==========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128),\n            nn.ReLU(),\n            nn.Linear(128, 128),\n            nn.ReLU(),",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "policy_net",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "policy_net = DQN(obs_dim, n_actions).to(device)\ntarget_net = DQN(obs_dim, n_actions).to(device)\ntarget_net.load_state_dict(policy_net.state_dict())\ntarget_net.eval()\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)\nreplay_buffer = deque(maxlen=BUFFER_SIZE)\n# ========================= INIT BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "target_net",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "target_net = DQN(obs_dim, n_actions).to(device)\ntarget_net.load_state_dict(policy_net.state_dict())\ntarget_net.eval()\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)\nreplay_buffer = deque(maxlen=BUFFER_SIZE)\n# ========================= INIT BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "optimizer = optim.Adam(policy_net.parameters(), lr=LR)\nreplay_buffer = deque(maxlen=BUFFER_SIZE)\n# ========================= INIT BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)\n    done = terminated or truncated\n    replay_buffer.append((obs, action, reward, next_obs, done))\n    obs = next_obs if not done else env.reset()[0]",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "replay_buffer",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "replay_buffer = deque(maxlen=BUFFER_SIZE)\n# ========================= INIT BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)\n    done = terminated or truncated\n    replay_buffer.append((obs, action, reward, next_obs, done))\n    obs = next_obs if not done else env.reset()[0]\n# ========================== TRAIN LOOP ==========================",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "epsilon",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "epsilon = EPSILON_START\nstep_count = 0\nfor episode in range(1, NUM_EPISODES + 1):\n    env.close()\n    env = render_env(episode)\n    obs, _ = env.reset()\n    total_reward = 0\n    done = False\n    while not done:\n        # Epsilon-greedy action",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "step_count",
+        "kind": 5,
+        "importPath": "dqn_main",
+        "description": "dqn_main",
+        "peekOfCode": "step_count = 0\nfor episode in range(1, NUM_EPISODES + 1):\n    env.close()\n    env = render_env(episode)\n    obs, _ = env.reset()\n    total_reward = 0\n    done = False\n    while not done:\n        # Epsilon-greedy action\n        if random.random() < epsilon:",
+        "detail": "dqn_main",
+        "documentation": {}
+    },
+    {
+        "label": "DQN",
+        "kind": 6,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "class DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )\n    def forward(self, x):\n        return self.net(x)",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "make_env",
+        "kind": 2,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "def make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "annotate_frame",
+        "kind": 2,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "def annotate_frame(frame, score, epoch, landed=False):\n    img = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)\n    font = cv2.FONT_HERSHEY_SIMPLEX\n    color = (255, 255, 255)\n    cv2.putText(img, f\"Score: {score:.1f}\", (10, 30), font, 0.8, color, 2)\n    cv2.putText(img, f\"Epoch: {epoch}\", (10, 60), font, 0.8, color, 2)\n    if landed:\n        cv2.putText(img, \"LANDED!\", (200, 200), font, 1.5, (0, 255, 0), 4)\n        cv2.circle(img, (300, 150), 30, (0, 255, 0), -1)\n    return cv2.cvtColor(img, cv2.COLOR_BGR2RGB)",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "save_gif",
+        "kind": 2,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "def save_gif(frames, episode):\n    uid = uuid.uuid4().hex[:6]\n    filename = os.path.join(VIDEO_DIR, f\"episode_{episode}_{uid}.gif\")\n    imageio.mimsave(filename, frames, fps=30)\n    print(f\"[\\u2713] Saved video: {filename}\")\n# ====================== TRAINING LOOP ==========================\nepsilon = EPSILON_START\nstep_count = 0\nfor episode in range(1, NUM_EPISODES + 1):\n    record_video = episode % RENDER_EVERY == 0 or episode == NUM_EPISODES",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "GAMMA",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "GAMMA = 0.99\nLR = 1e-3\nBATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "LR",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "LR = 1e-3\nBATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "BATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "BUFFER_SIZE",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "BUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_REPLAY_SIZE",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "MIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_UPDATE_FREQ",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "TARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_START",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "EPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_END",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "EPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_DECAY",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "EPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_EPISODES",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "NUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "RENDER_EVERY",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "RENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_DIR",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "VIDEO_DIR = \"videos\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "writer = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "env = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "obs_dim",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "obs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "n_actions",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "n_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "policy_net",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "policy_net = DQN(obs_dim, n_actions).to(device)\ntarget_net = DQN(obs_dim, n_actions).to(device)\ntarget_net.load_state_dict(policy_net.state_dict())\ntarget_net.eval()\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)\nreplay_buffer = deque(maxlen=BUFFER_SIZE)\n# ===================== INITIAL BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "target_net",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "target_net = DQN(obs_dim, n_actions).to(device)\ntarget_net.load_state_dict(policy_net.state_dict())\ntarget_net.eval()\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)\nreplay_buffer = deque(maxlen=BUFFER_SIZE)\n# ===================== INITIAL BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "optimizer = optim.Adam(policy_net.parameters(), lr=LR)\nreplay_buffer = deque(maxlen=BUFFER_SIZE)\n# ===================== INITIAL BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)\n    done = terminated or truncated\n    replay_buffer.append((obs, action, reward, next_obs, done))\n    obs = next_obs if not done else env.reset()[0]",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "replay_buffer",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "replay_buffer = deque(maxlen=BUFFER_SIZE)\n# ===================== INITIAL BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)\n    done = terminated or truncated\n    replay_buffer.append((obs, action, reward, next_obs, done))\n    obs = next_obs if not done else env.reset()[0]\n# ====================== VIDEO UTILS ============================",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "epsilon",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "epsilon = EPSILON_START\nstep_count = 0\nfor episode in range(1, NUM_EPISODES + 1):\n    record_video = episode % RENDER_EVERY == 0 or episode == NUM_EPISODES\n    env.close()\n    env = make_env(record=record_video)\n    obs, _ = env.reset()\n    total_reward = 0\n    done = False\n    frames = []",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "step_count",
+        "kind": 5,
+        "importPath": "dqn_main_videos",
+        "description": "dqn_main_videos",
+        "peekOfCode": "step_count = 0\nfor episode in range(1, NUM_EPISODES + 1):\n    record_video = episode % RENDER_EVERY == 0 or episode == NUM_EPISODES\n    env.close()\n    env = make_env(record=record_video)\n    obs, _ = env.reset()\n    total_reward = 0\n    done = False\n    frames = []\n    while not done:",
+        "detail": "dqn_main_videos",
+        "documentation": {}
+    },
+    {
+        "label": "DQN",
+        "kind": 6,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "class DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )\n    def forward(self, x):\n        return self.net(x)",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "kind": 5,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "MODEL_PATH = \"dqn_model.pkl\"\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )\n    def forward(self, x):",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "env = gym.make(\"LunarLander-v3\", render_mode=\"human\")\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# Load trained model\npolicy_net = DQN(obs_dim, n_actions)\nwith open(MODEL_PATH, \"rb\") as f:\n    state = pickle.load(f)\n    policy_net.load_state_dict(state[\"policy_state\"])\npolicy_net.eval()\n# Run the agent",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "obs_dim",
+        "kind": 5,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "obs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# Load trained model\npolicy_net = DQN(obs_dim, n_actions)\nwith open(MODEL_PATH, \"rb\") as f:\n    state = pickle.load(f)\n    policy_net.load_state_dict(state[\"policy_state\"])\npolicy_net.eval()\n# Run the agent\nobs, _ = env.reset()",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "n_actions",
+        "kind": 5,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "n_actions = env.action_space.n\n# Load trained model\npolicy_net = DQN(obs_dim, n_actions)\nwith open(MODEL_PATH, \"rb\") as f:\n    state = pickle.load(f)\n    policy_net.load_state_dict(state[\"policy_state\"])\npolicy_net.eval()\n# Run the agent\nobs, _ = env.reset()\ndone = False",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "policy_net",
+        "kind": 5,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "policy_net = DQN(obs_dim, n_actions)\nwith open(MODEL_PATH, \"rb\") as f:\n    state = pickle.load(f)\n    policy_net.load_state_dict(state[\"policy_state\"])\npolicy_net.eval()\n# Run the agent\nobs, _ = env.reset()\ndone = False\nwhile not done:\n    env.render()",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "done",
+        "kind": 5,
+        "importPath": "dqn_run",
+        "description": "dqn_run",
+        "peekOfCode": "done = False\nwhile not done:\n    env.render()\n    with torch.no_grad():\n        obs_tensor = torch.tensor(obs, dtype=torch.float32).unsqueeze(0)\n        action = torch.argmax(policy_net(obs_tensor)).item()\n    obs, reward, terminated, truncated, _ = env.step(action)\n    done = terminated or truncated\nprint(\"Episode finished.\")\nenv.close()",
+        "detail": "dqn_run",
+        "documentation": {}
+    },
+    {
+        "label": "discretize",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)\n    ratios = np.clip(ratios, 0, 1)\n    discrete = (ratios * (state_space_bins - 1)).astype(int)\n    return tuple(discrete)\ndef select_action(state):\n    if random.uniform(0, 1) < epsilon:\n        return env.action_space.sample()\n    return np.argmax(q_table[state])\ndef update_q_table(state, action, reward, next_state):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "select_action",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def select_action(state):\n    if random.uniform(0, 1) < epsilon:\n        return env.action_space.sample()\n    return np.argmax(q_table[state])\ndef update_q_table(state, action, reward, next_state):\n    best_next_action = np.argmax(q_table[next_state])\n    td_target = reward + discount_factor * q_table[next_state][best_next_action]\n    td_error = td_target - q_table[state][action]\n    q_table[state][action] += learning_rate * td_error\n# Training loop",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "update_q_table",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def update_q_table(state, action, reward, next_state):\n    best_next_action = np.argmax(q_table[next_state])\n    td_target = reward + discount_factor * q_table[next_state][best_next_action]\n    td_error = td_target - q_table[state][action]\n    q_table[state][action] += learning_rate * td_error\n# Training loop\nfor episode in range(1, num_episodes + 1):\n    observation, _ = env.reset()\n    state = discretize(observation)\n    total_reward = 0",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "state_space_bins",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "state_space_bins = 20\nlearning_rate = 0.1\ndiscount_factor = 0.99\nepsilon = 1.0\nepsilon_decay = 0.995\nmin_epsilon = 0.01\nnum_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "learning_rate",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "learning_rate = 0.1\ndiscount_factor = 0.99\nepsilon = 1.0\nepsilon_decay = 0.995\nmin_epsilon = 0.01\nnum_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "discount_factor",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "discount_factor = 0.99\nepsilon = 1.0\nepsilon_decay = 0.995\nmin_epsilon = 0.01\nnum_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "epsilon",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "epsilon = 1.0\nepsilon_decay = 0.995\nmin_epsilon = 0.01\nnum_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "epsilon_decay",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "epsilon_decay = 0.995\nmin_epsilon = 0.01\nnum_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "min_epsilon",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "min_epsilon = 0.01\nnum_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "num_episodes",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "num_episodes = 1000\nrender_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers\nobs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "render_every",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "render_every = 100  # Render every N episodes\n# Initialize environment\nenv = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers\nobs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs\nobs_high = np.clip(env.observation_space.high, -1e10, 1e10)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "env = gym.make(\"LunarLander-v3\", render_mode=\"human\")\n# Setup Q-table\naction_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers\nobs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs\nobs_high = np.clip(env.observation_space.high, -1e10, 1e10)\ndef discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "action_space_size",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "action_space_size = env.action_space.n\nobs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers\nobs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs\nobs_high = np.clip(env.observation_space.high, -1e10, 1e10)\ndef discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)\n    ratios = np.clip(ratios, 0, 1)\n    discrete = (ratios * (state_space_bins - 1)).astype(int)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "obs_dim",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "obs_dim = env.observation_space.shape[0]\nq_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers\nobs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs\nobs_high = np.clip(env.observation_space.high, -1e10, 1e10)\ndef discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)\n    ratios = np.clip(ratios, 0, 1)\n    discrete = (ratios * (state_space_bins - 1)).astype(int)\n    return tuple(discrete)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "q_table",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "q_table = np.zeros((state_space_bins,) * obs_dim + (action_space_size,))\n# Discretization helpers\nobs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs\nobs_high = np.clip(env.observation_space.high, -1e10, 1e10)\ndef discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)\n    ratios = np.clip(ratios, 0, 1)\n    discrete = (ratios * (state_space_bins - 1)).astype(int)\n    return tuple(discrete)\ndef select_action(state):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "obs_low",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "obs_low = np.clip(env.observation_space.low, -1e10, 1e10)  # sanitize infs\nobs_high = np.clip(env.observation_space.high, -1e10, 1e10)\ndef discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)\n    ratios = np.clip(ratios, 0, 1)\n    discrete = (ratios * (state_space_bins - 1)).astype(int)\n    return tuple(discrete)\ndef select_action(state):\n    if random.uniform(0, 1) < epsilon:\n        return env.action_space.sample()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "obs_high",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "obs_high = np.clip(env.observation_space.high, -1e10, 1e10)\ndef discretize(obs):\n    ratios = (obs - obs_low) / (obs_high - obs_low)\n    ratios = np.clip(ratios, 0, 1)\n    discrete = (ratios * (state_space_bins - 1)).astype(int)\n    return tuple(discrete)\ndef select_action(state):\n    if random.uniform(0, 1) < epsilon:\n        return env.action_space.sample()\n    return np.argmax(q_table[state])",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "DQN",
+        "kind": 6,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "class DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )\n    def forward(self, x):\n        return self.net(x)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "make_env",
+        "kind": 2,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "def make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "annotate_frame",
+        "kind": 2,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "def annotate_frame(frame, score, epoch, landed=False):\n    img = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)\n    font = cv2.FONT_HERSHEY_SIMPLEX\n    color = (255, 255, 255)\n    cv2.putText(img, f\"Score: {score:.1f}\", (10, 30), font, 0.8, color, 2)\n    cv2.putText(img, f\"Epoch: {epoch}\", (10, 60), font, 0.8, color, 2)\n    if landed:\n        cv2.putText(img, \"LANDED!\", (200, 200), font, 1.5, (0, 255, 0), 4)\n        cv2.circle(img, (300, 150), 30, (0, 255, 0), -1)\n    return cv2.cvtColor(img, cv2.COLOR_BGR2RGB)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "save_gif",
+        "kind": 2,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "def save_gif(frames, episode):\n    uid = uuid.uuid4().hex[:6]\n    filename = os.path.join(VIDEO_DIR, f\"episode_{episode}_{uid}.gif\")\n    imageio.mimsave(filename, frames, fps=30)\n    print(f\"[✓] Saved video: {filename}\")\n# ====================== TRAINING LOOP ==========================\nfor episode in range(start_episode, NUM_EPISODES + 1):\n    record_video = episode % RENDER_EVERY == 0 or episode == NUM_EPISODES\n    env.close()\n    env = make_env(record=record_video)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "GAMMA",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "GAMMA = 0.99\nLR = 1e-3\nBATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "LR",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "LR = 1e-3\nBATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "BATCH_SIZE = 64\nBUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "BUFFER_SIZE",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "BUFFER_SIZE = 100_000\nMIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_REPLAY_SIZE",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "MIN_REPLAY_SIZE = 1_000\nTARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_UPDATE_FREQ",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "TARGET_UPDATE_FREQ = 1000\nEPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_START",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "EPSILON_START = 1.0\nEPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_END",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "EPSILON_END = 0.01\nEPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "EPSILON_DECAY",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "EPSILON_DECAY = 0.9995\nNUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_EPISODES",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "NUM_EPISODES = 1000\nRENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "RENDER_EVERY",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "RENDER_EVERY = 25\nVIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_DIR",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "VIDEO_DIR = \"videos\"\nMODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_PATH",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "MODEL_PATH = \"dqn_model.pkl\"\nos.makedirs(VIDEO_DIR, exist_ok=True)\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nwriter = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "writer = SummaryWriter(f\"runs/DQN_LunarLander_{datetime.now().strftime('%Y%m%d_%H%M%S')}\")\n# ========================= ENV SETUP ===========================\ndef make_env(record=False):\n    return gym.make(\"LunarLander-v3\", render_mode=\"rgb_array\" if record else None)\nenv = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "env = make_env()\nobs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "obs_dim",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "obs_dim = env.observation_space.shape[0]\nn_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "n_actions",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "n_actions = env.action_space.n\n# ========================= Q-NETWORK ===========================\nclass DQN(nn.Module):\n    def __init__(self, input_dim, output_dim):\n        super().__init__()\n        self.net = nn.Sequential(\n            nn.Linear(input_dim, 128), nn.ReLU(),\n            nn.Linear(128, 128), nn.ReLU(),\n            nn.Linear(128, output_dim)\n        )",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "policy_net",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "policy_net = DQN(obs_dim, n_actions).to(device)\ntarget_net = DQN(obs_dim, n_actions).to(device)\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)\n# ===================== MODEL RESUME ============================\nstart_episode = 1\nepsilon = EPSILON_START\nstep_count = 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH, \"rb\") as f:\n        state = pickle.load(f)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "target_net",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "target_net = DQN(obs_dim, n_actions).to(device)\noptimizer = optim.Adam(policy_net.parameters(), lr=LR)\n# ===================== MODEL RESUME ============================\nstart_episode = 1\nepsilon = EPSILON_START\nstep_count = 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH, \"rb\") as f:\n        state = pickle.load(f)\n        policy_net.load_state_dict(state[\"policy_state\"])",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "optimizer = optim.Adam(policy_net.parameters(), lr=LR)\n# ===================== MODEL RESUME ============================\nstart_episode = 1\nepsilon = EPSILON_START\nstep_count = 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH, \"rb\") as f:\n        state = pickle.load(f)\n        policy_net.load_state_dict(state[\"policy_state\"])\n        target_net.load_state_dict(state[\"target_state\"])",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "start_episode",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "start_episode = 1\nepsilon = EPSILON_START\nstep_count = 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH, \"rb\") as f:\n        state = pickle.load(f)\n        policy_net.load_state_dict(state[\"policy_state\"])\n        target_net.load_state_dict(state[\"target_state\"])\n        optimizer.load_state_dict(state[\"optimizer_state\"])\n        epsilon = state[\"epsilon\"]",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "epsilon",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "epsilon = EPSILON_START\nstep_count = 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH, \"rb\") as f:\n        state = pickle.load(f)\n        policy_net.load_state_dict(state[\"policy_state\"])\n        target_net.load_state_dict(state[\"target_state\"])\n        optimizer.load_state_dict(state[\"optimizer_state\"])\n        epsilon = state[\"epsilon\"]\n        step_count = state[\"step\"]",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "step_count",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "step_count = 0\nif os.path.exists(MODEL_PATH):\n    with open(MODEL_PATH, \"rb\") as f:\n        state = pickle.load(f)\n        policy_net.load_state_dict(state[\"policy_state\"])\n        target_net.load_state_dict(state[\"target_state\"])\n        optimizer.load_state_dict(state[\"optimizer_state\"])\n        epsilon = state[\"epsilon\"]\n        step_count = state[\"step\"]\n        start_episode = state[\"episode\"] + 1",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "replay_buffer",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "replay_buffer = deque(maxlen=BUFFER_SIZE)\n# ===================== INITIAL BUFFER ==========================\nobs, _ = env.reset()\nfor _ in range(MIN_REPLAY_SIZE):\n    action = env.action_space.sample()\n    next_obs, reward, terminated, truncated, _ = env.step(action)\n    done = terminated or truncated\n    replay_buffer.append((obs, action, reward, next_obs, done))\n    obs = next_obs if not done else env.reset()[0]\n# ====================== VIDEO UTILS ============================",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "gif_files",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "gif_files = sorted(glob.glob(os.path.join(VIDEO_DIR, \"*.gif\")))\nmp4_clips = []\nfor gif in gif_files:\n    mp4_path = os.path.splitext(gif)[0] + \".mp4\"\n    try:\n        # Convert each GIF to MP4\n        subprocess.run([\n            \"ffmpeg\", \"-y\", \"-i\", gif, \"-vf\", \"scale=600:-2\", \"-pix_fmt\", \"yuv420p\", mp4_path\n        ], check=True)\n        mp4_clips.append(mp4_path)",
+        "detail": "testingdqn2",
+        "documentation": {}
+    },
+    {
+        "label": "mp4_clips",
+        "kind": 5,
+        "importPath": "testingdqn2",
+        "description": "testingdqn2",
+        "peekOfCode": "mp4_clips = []\nfor gif in gif_files:\n    mp4_path = os.path.splitext(gif)[0] + \".mp4\"\n    try:\n        # Convert each GIF to MP4\n        subprocess.run([\n            \"ffmpeg\", \"-y\", \"-i\", gif, \"-vf\", \"scale=600:-2\", \"-pix_fmt\", \"yuv420p\", mp4_path\n        ], check=True)\n        mp4_clips.append(mp4_path)\n    except subprocess.CalledProcessError:",
+        "detail": "testingdqn2",
+        "documentation": {}
+    }
+]
