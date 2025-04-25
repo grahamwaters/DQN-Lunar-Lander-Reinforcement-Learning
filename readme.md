@@ -95,10 +95,11 @@ videos/000N_run_<uuid>/…gif	one per recorded episode
 …highs_<uuid>.mp4	top-10 GIFs (by reward)
 
 
+[Video 1](utils/0012_highs_07fa69cd.mp4)
 
 ⸻
 
-7. TensorBoard tips
+1. TensorBoard tips
 
 tensorboard --logdir runs --bind_all
 
